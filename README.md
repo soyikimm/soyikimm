@@ -4,7 +4,7 @@
 
 개발이 재미있는 개발자
 
-예쁘게 꾸미는것을 좋아합니다
+새롭게 배우는것을 좋아합니다.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyikimm&show_icons=true&theme=radical)
