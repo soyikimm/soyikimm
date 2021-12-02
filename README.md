@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="https://www.avetworld.com/wp-content/uploads/2019/09/LA-%EB%94%94%EC%A6%88%EB%8B%88200226.jpg>
-
-
 </br>
 <div align="center">
 </br>
