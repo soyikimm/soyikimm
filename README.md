@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<div align="center">
+</br>
 ![disney](https://user-images.githubusercontent.com/89246392/144343523-acba9957-961b-43e0-be1e-93137677e3f7.gif)
 아직 무럭무럭 자라고있는 개발 꿈나무 새싹 🌱
 
@@ -9,3 +12,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyikimm&show_icons=true&theme=radical)
+</div>
