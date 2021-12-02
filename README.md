@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-![disney](https://user-images.githubusercontent.com/89246392/144343864-7181f7aa-5bef-47aa-9e38-20a935f4392b.gif)
+![disney](./https://user-images.githubusercontent.com/89246392/144343864-7181f7aa-5bef-47aa-9e38-20a935f4392b.gif)
 </p>
 
 </br>
