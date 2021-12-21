@@ -10,6 +10,8 @@ Hi there 👋
 
 새롭게 배우는것을 좋아합니다.</br>
 
+HTML, CSS, JavaScript, React.js, Node.js
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyikimm&show_icons=true&theme=radical)
 </div>
