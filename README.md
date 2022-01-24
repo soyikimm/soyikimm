@@ -10,7 +10,8 @@ Hi there 👋
 매일매일 공부하고 기록합니다.</br></br>
 새롭게 배우는것을 좋아합니다.</br>
 
-HTML, CSS, JavaScript, React.js, Node.js
+HTML, CSS, JavaScript, React.js, Node.js</br>
+Mysql, redis, AWS</br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyikimm&show_icons=true&theme=radical)
