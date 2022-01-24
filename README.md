@@ -7,7 +7,7 @@ Hi there 👋
 아직 무럭무럭 자라고있는 개발 꿈나무 새싹 🌱</br>
 
 개발이 재미있는 개발자</br>
-매일매일 공부하고 기록합니다.</br>
+매일매일 공부하고 기록합니다.</br></br>
 새롭게 배우는것을 좋아합니다.</br>
 
 HTML, CSS, JavaScript, React.js, Node.js
